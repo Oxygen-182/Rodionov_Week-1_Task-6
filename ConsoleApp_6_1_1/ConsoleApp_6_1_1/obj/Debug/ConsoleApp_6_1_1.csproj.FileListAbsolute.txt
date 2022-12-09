@@ -1,0 +1,15 @@
+D:\Users\stu-pksp120\source\repos\ConsoleApp_6_1_1\ConsoleApp_6_1_1\bin\Debug\ConsoleApp_6_1_1.exe.config
+D:\Users\stu-pksp120\source\repos\ConsoleApp_6_1_1\ConsoleApp_6_1_1\bin\Debug\ConsoleApp_6_1_1.exe
+D:\Users\stu-pksp120\source\repos\ConsoleApp_6_1_1\ConsoleApp_6_1_1\bin\Debug\ConsoleApp_6_1_1.pdb
+D:\Users\stu-pksp120\source\repos\ConsoleApp_6_1_1\ConsoleApp_6_1_1\obj\Debug\ConsoleApp_6_1_1.csprojAssemblyReference.cache
+D:\Users\stu-pksp120\source\repos\ConsoleApp_6_1_1\ConsoleApp_6_1_1\obj\Debug\ConsoleApp_6_1_1.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp120\source\repos\ConsoleApp_6_1_1\ConsoleApp_6_1_1\obj\Debug\ConsoleApp_6_1_1.exe
+D:\Users\stu-pksp120\source\repos\ConsoleApp_6_1_1\ConsoleApp_6_1_1\obj\Debug\ConsoleApp_6_1_1.pdb
+E:\УПК\Нед_2\Задание_6\ConsoleApp_6_1_1\ConsoleApp_6_1_1\bin\Debug\ConsoleApp_6_1_1.exe.config
+E:\УПК\Нед_2\Задание_6\ConsoleApp_6_1_1\ConsoleApp_6_1_1\bin\Debug\ConsoleApp_6_1_1.exe
+E:\УПК\Нед_2\Задание_6\ConsoleApp_6_1_1\ConsoleApp_6_1_1\bin\Debug\ConsoleApp_6_1_1.pdb
+E:\УПК\Нед_2\Задание_6\ConsoleApp_6_1_1\ConsoleApp_6_1_1\obj\Debug\ConsoleApp_6_1_1.csproj.CoreCompileInputs.cache
+E:\УПК\Нед_2\Задание_6\ConsoleApp_6_1_1\ConsoleApp_6_1_1\obj\Debug\ConsoleApp_6_1_1.exe
+E:\УПК\Нед_2\Задание_6\ConsoleApp_6_1_1\ConsoleApp_6_1_1\obj\Debug\ConsoleApp_6_1_1.pdb
+E:\УПК\Нед_2\Задание_6\ConsoleApp_6_1_1\ConsoleApp_6_1_1\obj\Debug\ConsoleApp_6_1_1.csproj.AssemblyReference.cache
+E:\УПК\Нед_2\Задание_6\ConsoleApp_6_1_1\ConsoleApp_6_1_1\obj\Debug\ConsoleApp_6_1_1.csproj.SuggestedBindingRedirects.cache
